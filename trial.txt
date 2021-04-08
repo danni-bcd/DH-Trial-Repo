@@ -1,1 +1,3 @@
 this is a trial text file for experimenting with git repo.
+
+Trial txt file updated via GitHub.
